@@ -1,0 +1,6 @@
+{
+  "name": "Neon Invaders 1984",
+  "description": "Vaporwave Space Invaders arcade game and synthwave music player with scanlines and dynamic audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
